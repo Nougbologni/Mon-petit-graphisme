@@ -1,0 +1,142 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+
+    /*Header*/
+header a{
+    color: black;
+    text-decoration: none;
+    padding-left: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav {
+    margin: 20px 0 20px 20px;
+}
+
+    /* main */
+
+.fond {
+    position: relative;
+    width: 100%;
+    margin: auto;
+    height: 489px;
+    /* margin-bottom: 5%;
+    margin-top: -4px; */
+}
+.petit-logo {
+    margin-top: -26%;
+    margin-left: 43%;
+}
+h2 {
+    color: white;
+    margin-left: 41%;
+    letter-spacing: 1px;
+}
+
+.paragraphe1 {
+    color: black;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 25px;
+    font-size: 28px;
+}
+
+.services {
+    width: 80%;
+    margin: auto;
+}
+
+.images {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 55px 0 90px;
+    margin-top: 60px;
+}
+
+.titre-de-niveau-3 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 5px 0 65px;
+    font-weight: normal;
+}
+
+.strategie {
+    margin-left: 20px;
+    font-weight: 500;
+}
+
+.graphisme,.illustrations {
+    font-weight: 500;
+}
+
+.details {
+    display: flex;
+    text-align: center;
+    font-size: 15px;
+}
+
+.description1 {
+    margin: 0 80px 0 0;
+}
+
+.description2 {
+    margin: 0 70px 0 0px;
+}
+
+.description3 {
+    margin: 0 20px 0 60px;
+}
+
+.resume {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.temoignage {
+    font-size: 20px;
+}
+
+/* Footer */
+
+footer {
+    background-color: blueviolet;
+}
+
+.localisation {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: bold;
+}
+
+.reseaux-sociaux {
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    margin: auto;
+}
+
+.en-savoir-plus {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 8% 0 8%;
+}
+
+ul {
+    font-weight: bold;
+}
+
+.coordonnées {
+    margin: 30px 0 30px 0;
+    list-style-type: none;
+}
